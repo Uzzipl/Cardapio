@@ -79,9 +79,18 @@ main{
     border-radius: 4px;
     cursor: pointer;
 }
+.adicionar:hover{
+    background-color: aqua;
+}
 
+footer{
+    text-align: center;
+    padding: 1rem;
+    background-color: black;
+    color: white;
+    font-weight: bold;
 
-
+}
 
 
 
