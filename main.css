@@ -83,6 +83,32 @@ main{
     background-color: aqua;
 }
 
+#Pedidos{
+    background-color: #494949;
+    padding: 1rem;
+    border-radius: 10px;
+}
+ #lista-pedida{
+    list-style: nome;
+    padding: 0;
+ }
+
+ #Contato{
+    text-align: center;
+    margin-top: 2rem;
+ }
+
+ .redes-sociais a{
+    display: inline-block;
+    background-color: #494949;
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    text-decoration: none;
+    margin: 0.5rem;
+
+ }
+
 footer{
     text-align: center;
     padding: 1rem;
@@ -91,15 +117,6 @@ footer{
     font-weight: bold;
 
 }
-
-
-
-
-
-
-
-
-
 
 
 
